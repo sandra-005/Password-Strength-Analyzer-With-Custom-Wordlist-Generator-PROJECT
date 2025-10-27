@@ -9,7 +9,4 @@ This project evaluates the strength of user passwords and generates custom wordl
 * Provides feedback for improving weak passwords
 * Simple and efficient Python-based implementation
 
-## Tools & Technologies
-
-Python, Regex, Wordlist Generation, File Handling
 
